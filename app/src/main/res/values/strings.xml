@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAnimeShelf</string>
+    <string-array name="status">
+        <item>Хочу</item>
+        <item>Уже есть</item>
+        <item>В пути</item>
+        <item>Предзаказ</item>
+    </string-array>
+</resources>
